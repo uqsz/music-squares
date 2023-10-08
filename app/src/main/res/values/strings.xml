@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Squares</string>
+    <string name="button">Button</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="check">Check!</string>
+    <string name="surrender">Surrender</string>
+    <string name="start">Start</string>
+    <string name="music_squares">Music Squares</string>
+</resources>
