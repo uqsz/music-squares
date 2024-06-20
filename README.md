@@ -8,6 +8,8 @@ At the beginning you hear two chords, each contains two notes. Your job is to sp
 
 ![image](notes.png)
 
+## How it looks?
 
+[Watch the demo video on YouTube](https://youtu.be/m2j-jcdCtSg)
 
 
